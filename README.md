@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='assets/creatorverse-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/creatorverse-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with **ScreenToGif**
 
